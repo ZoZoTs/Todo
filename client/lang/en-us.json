@@ -1,0 +1,43 @@
+{
+    "todo" : {
+        "ADD":"add",
+        "FILTER":"Filter",
+        "ENTERNEWTODO":"Enter new todo",
+        "ENTERTODOTEXT":"Enter todo text",
+        "CONFIRMDLG":{
+            "HEADER":"Warning",
+            "QUESTION":"Do you realy want to delete item: %i",
+            "YES":"Yes",
+            "NO":"No"
+        }
+    },
+    "remoteTodoControl" : {
+        "INPUTDLG": {
+            "HEADER_NEW":"Enter New todo name",
+            "HEADER_EDIT":"Enter todo new name",
+            "OK":"OK",
+            "CANCEL":"Cancel"
+        },
+        "todo" : {
+            "ADD":"add",
+            "FILTER":"Filter",
+            "ENTERNEWTODO":"Enter new todo",
+            "ENTERTODOTEXT":"Enter todo text",
+            "CONFIRMDLG":{
+                "HEADER":"Warning",
+                "QUESTION":"Do you realy want to delete item: %i",
+                "YES":"Yes",
+                "NO":"No"
+            }
+        },
+        "CONFIRMDLG":{
+            "HEADER":"Warning",
+            "QUESTION":"Do you realy want to delete todo group: %i",
+            "YES":"Yes",
+            "NO":"No"
+        },
+        "myCreator":{
+            "TITLE": "MyCreator"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+#loading_label {
+    color:red;
+}
+
+#catalog img, #products img , #cur_catalog_edit img {
+    height: 80px;
+    
+}
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) { 
+    #catalog li, #products li  {
+        height: 140px;
+        
+    }
+} 
+
+#loading_label {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#offline_label {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#catalog input, #product input {
+    color: blue;
+}
+
+#catalog a {
+    overflow: hidden;
+}
+
+#catalog_name {
+    font-size: 2em;
+}
+
+#lnewcatalog, #lnewproduct {
+    opacity: 0.5;
+}
+
+
+#report_result table th .glyphicon {
+    font-size: 0.7em;;
+}
+
+#report_result table th .glyphicon.active {
+    color: red;
+}
+
+.error .modal-header, .deleteconfirm .modal-header{
+    background-color: #F55;
+}
+
+.my_image_dialog img {
+    height: 90px;
+    margin: auto;
+}
+
+#memobody {
+    width: 100%;
+}

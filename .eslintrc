@@ -1,0 +1,11 @@
+{
+  "extends": "eslint:recommended",
+  "rules": {
+        "semi": 2,
+        "curly": 2,
+        "no-eval": 2,
+        "no-implied-eval": 2,
+        "no-multi-spaces": 1,
+        "no-with": 1
+    }
+}

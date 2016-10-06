@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "authors": [
+    "Zoltan Tsuranych <Zoltan.Tsuranych@gmail.com>"
+  ],
+  "main": "client/js/app.js",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.styl": "~3.0.3",
+    "react": "~0.14.2",
+    "director": "~1.2.8",
+    "bootstrap": "~3.3.6"
+  }
+}
